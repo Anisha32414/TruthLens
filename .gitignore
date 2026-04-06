@@ -3,10 +3,11 @@ models/
 *.bin
 *.pt
 *.safetensors
-
+*.zip
 __pycache__/
 *.pyc
 instance/
 *.db
 .venv/
 __pycache__/
+bert_model/

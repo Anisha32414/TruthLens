@@ -94,8 +94,13 @@ BACKUP_SMTP_USE_TLS = (os.getenv("BACKUP_SMTP_USE_TLS") or str(SMTP_USE_TLS).low
 RESET_LINK_BASE_URL = (os.getenv("RESET_LINK_BASE_URL") or "").strip().rstrip("/")
 
 # Load ML model + vectorizer
+
 # model = pickle.load(open("model.pkl", "rb"))
 # vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
+
+model = pickle.load(open("model_ml.pkl", "rb"))
+vectorizer = pickle.load(open("vectorizer_ml.pkl", "rb"))
+
 
 # Load spaCy model
 nlp = spacy.load("en_core_web_sm")
