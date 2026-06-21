@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1-NgDal2jM3q-9vJWl86AZwZnmNcrdY-H/view?usp=shari
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Anisha32414/TruthLens.git
 cd TruthLens
 ```
 
