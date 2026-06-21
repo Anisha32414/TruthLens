@@ -51,6 +51,17 @@ TruthLens is an AI-powered web application that evaluates the credibility of new
 
 ---
 
+
+## DistilBERT Training Notebook
+
+The complete Google Colab notebook used for training and fine-tuning the DistilBERT model is available here:
+
+**Google Colab:**
+https://colab.research.google.com/drive/1a-TEW8PKknDpJ_ufnkmaxqSHCOFASj74?usp=sharing
+
+
+---
+
 ## Fine-tuned DistilBERT Model
 
 Download the fine-tuned DistilBERT model from the link below:
