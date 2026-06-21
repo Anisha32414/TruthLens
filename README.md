@@ -51,6 +51,16 @@ TruthLens is an AI-powered web application that evaluates the credibility of new
 
 ---
 
+## Fine-tuned DistilBERT Model
+
+Download the fine-tuned DistilBERT model from the link below:
+
+**Model:**
+https://drive.google.com/file/d/1-NgDal2jM3q-9vJWl86AZwZnmNcrdY-H/view?usp=sharing
+
+
+---
+
 ## Installation
 
 ### 1. Clone the repository
